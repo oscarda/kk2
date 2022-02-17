@@ -7,3 +7,5 @@ print("Hola")
 #detección de contacto con el adversario
 
 #el desarrollo continua
+
+#añadimos 3D
