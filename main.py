@@ -12,4 +12,4 @@ print("Hola")
 
 #cambio colaborador
 
-#otro usuario...
+#otro usuario... etc
